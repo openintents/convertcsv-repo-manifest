@@ -1,0 +1,13 @@
+<manifest>
+  <remote	name="openintents-github"
+		fetch="https://github.com/openintents/" />
+  <default	revision="master"
+		remote="openintents-github" />
+
+  <project	path="convertcsv"
+		name="convertcsv" />
+  <project	path="distribution"
+		name="distribution" />
+  <project	path="shoppinglist"
+		name="shoppinglist" />
+</manifest>
